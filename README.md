@@ -1,4 +1,5 @@
 # Digital Obsidian Garden
+
 This is the code for my digital garden, created with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden).
 Published to https://fredrikgit.vercel.app/ using Vercel.
 ---
