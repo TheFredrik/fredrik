@@ -7,9 +7,8 @@
 Gratis, reklamefritt og samler ikke inn persondata. Open Source er det også!
 
 Thunderbird har nettopp fått en redesign, og ser knallfint ut.
-Sjekk det ut her:
-https://www.thunderbird.net/nb-NO/
-
+[Sjekk ut Thunderbird](https://www.thunderbird.net/nb-NO/)
+ 
 ### Noen innstillinger du bør gjøre
 Ideelt sett bør du gå gjennom de fleste innstillingene, men her er de jeg synes er viktigst:
 1. Bytt til Cards View
