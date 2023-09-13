@@ -4,6 +4,11 @@
 
 # Hei, og velkommen!
 
+
+
+>
+---
+
 ## "Digital hage"?
 Det er en slags blanding av en notatbok og en blogg, til å dele tanker, ideer og kunnskap.
 
