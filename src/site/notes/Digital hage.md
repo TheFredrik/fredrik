@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Digital hage/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-hage/","tags":["gardenEntry"]}
 ---
 
 # Hei, og velkommen!
@@ -10,3 +10,4 @@ Det er en slags blanding av en notatbok og en blogg, til å dele tanker, ideer o
 ---
 # Sider
 #### Bruk [[Tips/Forbrukerrådet\|Forbrukerrådet]]!
+#### [[Tips/Programvare/Thunderbird til epost\|Thunderbird til epost]]
