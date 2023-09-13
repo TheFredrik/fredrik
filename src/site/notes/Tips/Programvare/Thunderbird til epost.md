@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/tips/programvare/thunderbird-til-epost/"}
 ---
 
+#programvare
+
 Gratis, reklamefritt og samler ikke inn persondata. Open Source er det også!
 
 Thunderbird har nettopp fått en redesign, og ser knallfint ut.
