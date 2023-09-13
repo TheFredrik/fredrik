@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Tips/Forbrukerrådet/"}
+{"dg-publish":true,"permalink":"/tips/forbrukerradet/"}
 ---
 
 
