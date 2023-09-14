@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/tips/programvare/thunderbird-til-epost/"}
 ---
 
-#programvare
+### #programvare
 
 Gratis, reklamefritt og samler ikke inn persondata. Open Source er det også!
 
