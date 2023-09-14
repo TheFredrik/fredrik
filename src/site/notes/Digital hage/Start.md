@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Start.md","permalink":"/start/","tags":["gardenEntry"]}
 ---
 
-# 👋 Hei, og velkommen!
+# Hei, og velkommen!
 <br><br>
 
 ## "Digital Garden"?
