@@ -7,8 +7,10 @@
 
 ## "Digital hage"?
 Det er en slags blanding av en notatbok og en blogg, til å dele tanker, ideer og kunnskap.
-<br><br>
+<br>
+
+<br>
 
 ### Sider:
-Bruk [[Tips/Forbrukerrådet\|Forbrukerrådet]]!
+[[Tips/Bruk Forbrukerrådet!\|Bruk Forbrukerrådet!]]
 [[Tips/Programvare/Thunderbird til epost\|Thunderbird til epost]]
