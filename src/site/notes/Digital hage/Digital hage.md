@@ -8,9 +8,7 @@
 Det er en slags blanding av en notatbok og en blogg, til å dele tanker, ideer og kunnskap.
 
 ---
-
+<br>
 # Sider
-> [!tip] Bruk [[Tips/Forbrukerrådet\|Forbrukerrådet]]!
-
->[!tip] [[Tips/Programvare/Thunderbird til epost\|Thunderbird til epost]]
-
+## Bruk [[Tips/Forbrukerrådet\|Forbrukerrådet]]!
+## [[Tips/Programvare/Thunderbird til epost\|Thunderbird til epost]]
