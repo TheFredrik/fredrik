@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-ressurser/tips/skoletips/"}
+{"dg-publish":true,"dg-path":"Tips/Skoletips.md","permalink":"/tips/skoletips/"}
 ---
 
 - Få oversikt over det som skal læres og før ned fremgangen
