@@ -26,3 +26,6 @@ View > Mapper
 > 4. Hvis du bruker kalenderen, så er det en boks med tapte påminnelser som dukker opp hver gang du åpner programmet. Den tar ikke hensyn til at du har husket påminnelsen på mobilen eller et annet program. Jeg synes den bare ble plagsom, og skrudde den av.
 Innstillinger > Kalender, bla ned til "Påminnelser"
 ![Pasted image 20230913184549.png](/img/user/3%20Ressurser/Vedlegg/Pasted%20image%2020230913184549.png)
+
+---
+[[3 Ressurser/Tips/Programvare\|Programvare]]
