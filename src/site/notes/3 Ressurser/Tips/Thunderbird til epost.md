@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-ressurser/tips/thunderbird-til-epost/"}
+{"dg-publish":true,"dg-path":"Tips/Thunderbird til epost.md","permalink":"/tips/thunderbird-til-epost/"}
 ---
 
 
