@@ -6,6 +6,7 @@
  
 ## "Fredriks notater"?
 Dette er en slags blanding av en notatbok og en blogg, til å dele tanker, ideer og kunnskap.
+Ikke alle notatene kommer til å være like polerte.
  
 Sider:
 [[3 Ressurser/Tips/Bruk Forbrukerrådet!\|Bruk Forbrukerrådet!]]
