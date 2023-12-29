@@ -9,6 +9,6 @@ Dette er en slags blanding av en notatbok og en blogg, til å dele tanker, ideer
 Ikke alle notatene kommer til å være like polerte.
  
 Sider:
-[[3 Ressurser/Tips/Bruk Forbrukerrådet!\|Bruk Forbrukerrådet!]]
-[[3 Ressurser/Tips/Thunderbird til epost\|Thunderbird til epost]]
-[[3 Ressurser/Tips/Skoletips\|Skoletips]]
+[[2 Langtidsprosjekter/Fredriks notater/Bruk Forbrukerrådet!\|Bruk Forbrukerrådet!]]
+[[2 Langtidsprosjekter/Fredriks notater/Thunderbird til epost\|Thunderbird til epost]]
+[[2 Langtidsprosjekter/Fredriks notater/Skoletips\|Skoletips]]
